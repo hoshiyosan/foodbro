@@ -6,6 +6,7 @@
 
 - Ingrédients quantifiés...
 - ...scalables selon le nombre de portions 
+- Etapes des préparation basées sur les quantités variables
 
 ### CHERCHER DES RECETTES
 
@@ -37,3 +38,23 @@ Une session de courses permet de planifier et acheter à plusieurs.
 
 
 **INCLURE UNE OPTION DE PARTAGE DES COUTS...**
+
+## CUISINER
+
+- Chercher les plats prévus qui n'ont pas encore été faits
+- Suivre une recette
+- Marquer une recette comme fait (pour X personnes)
+
+-----------------------------------------------------------
+
+**Comment partager au mieux?**
+
+- Les recettes et les ingrédients sont partageables publiquement
+- Le planning des courses, la liste et la cuisine sont accessibles à un groupe.
+
+Exemples de groupes:
+
+- Famille
+- Amis
+- Collègues
+- Etc...
