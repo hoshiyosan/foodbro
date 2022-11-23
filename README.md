@@ -1,4 +1,4 @@
-# FoodBro's
+# FoodBro's concept
 
 ## :bento: RECETTES
 
@@ -56,3 +56,7 @@ Exemples de groupes:
 - Amis
 - Collègues
 - Etc...
+
+# [Draft] FoodBro's database
+
+![draft database](docs/images/draft-database.drawio.png)
