@@ -2,7 +2,7 @@
 
 ## :bento: RECETTES
 
-### CREER DES RECETTES
+### :memo: CREER DES RECETTES
 
 - Ingrédients quantifiés...
 - ...scalables selon le nombre de portions 
@@ -33,7 +33,7 @@ Il faut conserver le lien entre les ingrédients achetés et les recettes prévu
 - Synchroniser la liste de courses entre les participants
 - Possibilité de verrouiller un ingrédient avant de l'avoir trouvé pour indiquer aux autre de ne pas le chercher
 
-### :credit_card: Pay
+### :credit_card: PAYER
 
 **INCLURE UNE OPTION DE PARTAGE DES COUTS...**
 
