@@ -60,3 +60,7 @@ Exemples de groupes:
 # [Draft] FoodBro's database
 
 ![draft database](docs/images/draft-database.drawio.png)
+
+# [Draft] FoodBro's architecture
+
+![draft architecture](docs/images/draft-architecture.drawio.png)
